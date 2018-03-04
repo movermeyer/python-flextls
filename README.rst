@@ -7,11 +7,11 @@ It must not be used as standalone crypto library.
 
 You can find more information in the `documentation`_.
 
-.. image:: https://pypip.in/version/flextls/badge.svg
+.. image:: https://img.shields.io/pypi/v/flextls.svg
     :target: https://pypi.python.org/pypi/flextls/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/flextls/badge.svg
+.. image:: https://img.shields.io/pypi/l/flextls.svg
     :target: https://pypi.python.org/pypi/flextls/
     :alt: License
 
